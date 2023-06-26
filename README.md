@@ -4,11 +4,11 @@
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/EyuCoder/chatgpt-clone)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/debindra/chatgpt-clone-3.5-turbo)
 
 ### Deploy to Vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/EyuCoder/chatgpt-clone&project-name=chatgpt-and-dalle&repo-name=chatgpt-clone)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/debindra/chatgpt-clone-3.5-turbo&project-name=chatgpt-and-dalle&repo-name=chatgpt-clone)
 
 _you can checkout the app [here](https://chatgpt.eyucoder.com/)_
 
@@ -21,7 +21,7 @@ _you can checkout the app [here](https://chatgpt.eyucoder.com/)_
 
 ## If you find this project helpful, you can buy me a coffee here
 
-<a href="https://www.buymeacoffee.com/eyuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<!-- <a href="https://www.buymeacoffee.com/eyuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
 
 ## install
 
